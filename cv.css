@@ -1,0 +1,20 @@
+body{
+  background-image: url("RAJ3.jpg");
+  font-family: sans-serif;
+  color: white;
+  border: 10px none white;
+  padding: 20px 50px;
+}
+hr{
+  border-color:white;
+  width:100%;
+  border-width:5px;
+  border-style:none;
+  border-top-style:dotted;
+}
+img{
+  height: 350px;
+}
+a{
+  background-color: white;
+}
